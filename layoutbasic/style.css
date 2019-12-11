@@ -1,0 +1,57 @@
+*{
+    margin:0px;
+}
+#Main {
+    margin: auto;
+    height: 100%;
+    width: 100%;
+    overflow:auto;
+    background-color: royalblue;
+    margin: 0px 20px;
+}
+#Main #Header{
+    background-color: green;
+    height: 70px;
+}
+#Main #Header-Link{
+    background-color: black;
+    height: 30px;
+}
+/*#Header .header-left{
+    float: left;
+    width: 300px;
+    height: 60px;
+    background-color: blue;
+}
+#Header .header-right{
+    float: left;
+    width: 600px;
+    height: 70px;
+    background-color: aqua;
+    clear: both;
+}*/
+#Main #Left {
+    background-color: red;
+    float: left;
+    height: 450PX;
+    width: 15%;
+}
+#Main #Content{
+    background-color: yellow;
+    float: left;
+    height: 450px;
+    width: 64%;
+}
+#Main #Right {
+    background-color: cornflowerblue;
+    float: left;
+    width: 21%;
+    height:450px;
+}
+
+#Main #Footer {
+    float: left;
+    height: 70px;
+    width: 100%;
+    background-color: aquamarine;
+}
